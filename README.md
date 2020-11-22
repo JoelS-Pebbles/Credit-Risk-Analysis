@@ -11,3 +11,10 @@ In the tables below there is a comparison of the outputs of the machine learning
 
 ![smote over](https://github.com/JoelS-Pebbles/Credit-Risk-Analysis/blob/main/smote%20over.PNG)
 ![random oversampling](https://github.com/JoelS-Pebbles/Credit-Risk-Analysis/blob/main/random%20oversampling.PNG)
+![cluster centroids](https://github.com/JoelS-Pebbles/Credit-Risk-Analysis/blob/main/cluster%20centroids.PNG)
+![smoteenn combo over and under](https://github.com/JoelS-Pebbles/Credit-Risk-Analysis/blob/main/smoteenn%20combo%20over%20and%20under.PNG)
+![adaboost classsifier](https://github.com/JoelS-Pebbles/Credit-Risk-Analysis/blob/main/adaboost%20classsifier.PNG)
+![random forest classifier](https://github.com/JoelS-Pebbles/Credit-Risk-Analysis/blob/main/random%20forest%20classifier.PNG)
+
+## Summary
+The F1 score in terms of a combonation score of percision and recall gives another important metric. The F1 score for SMOTE oversampling is 81% which is the best methog among the other four sampling methods. Including the comparison of the ensemble classifier methods, each has an F1 score of 1 and makes these two methods better overall. The recommended choice is the Easy Ensemble Adaboost Classifier because this model has the best overall scores in this comparison of the six models. 
